@@ -6,7 +6,7 @@
     "name": "Ryan X Charles",
     "email": "ryan@bitpay.com"
   },
-  "repository": "git://github.com/bitpay/insight-api.git",
+  "repository": "git://github.com/Bushstar/insight-api.git",
   "contributors": [
     {
       "name": "Matias Alejo Garcia",
@@ -30,9 +30,9 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/bitpay/insight-api/issues"
+    "url": "https://github.com/Bushstar/insight-api/issues"
   },
-  "homepage": "https://github.com/bitpay/insight-api",
+  "homepage": "https://github.com/Bushstar/insight-api",
   "license": "MIT",
   "keywords": [
     "insight",
@@ -51,7 +51,7 @@
     "start": "node node_modules/grunt-cli/bin/grunt"
   },
   "dependencies": {
-    "bitcore": "git://github.com/bitpay/bitcore.git#4d8af75ae9916984c52ee2eda1870d5980656341",
+    "bitcore": "git://github.com/Bushstar/bitcore.git",
     "base58-native": "0.1.2",
     "async": "*",
     "leveldown": "*",
